@@ -1,2 +1,1 @@
-# Minishell
-## First Try
+## Minishell
